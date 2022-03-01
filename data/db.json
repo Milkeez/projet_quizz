@@ -1,0 +1,20 @@
+{
+    "users":[
+        {
+            "nom":"Rodriguez",
+            "prenom":"Italvina",
+            "login":"joeur@gmail.com",
+            "password":"joeur",
+            "role":"ROLE_JOUEUR",
+            "score":15
+            },
+            {
+            "nom":"LAM",
+            "prenom":"Malick Thioune",
+            "login":"admin@gmail.com",
+            "password":"admin",
+            "role":"ROLE_ADMIN",
+            "score":0
+            }
+    ]
+}
